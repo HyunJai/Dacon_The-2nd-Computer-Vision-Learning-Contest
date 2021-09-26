@@ -1,15 +1,16 @@
-# The-2nd-Computer-Vision-Learning-Contest
-[제 2회 컴퓨터비전 EMNIST 분류 경진대회](https://dacon.io/competitions/official/235697/leaderboard)
+# 카메라 이미지 품질 향상 AI 경진대회
+[LG AI Research 경진대회](https://dacon.io/competitions/official/235746/overview/description)
 
-### Private : 43/216(19%)
+### Private : 18/235(7%)
 
 ## 1. 주제
-- 합성한 MNIST 이미지 속에 들어있는 알파벳 찾기
+- 🌟빛 번짐으로 저하된 📷카메라 이미지 품질을 향상시키는 AI 모델 개발
 
 ## 2. 배경
 
-- 손글씨 이미지인 MNIST 데이터 세트는 이 분야의 고전적인 문제로 잘 알려져 있음.
-- 무작위로 합성된 10 ~ 15개의 글자를 분류하는 multi-label classification
+- 빛이 렌즈를 통해 사진이 찍힐 때 물리적인 요인에 의해 다양한 빛 번짐이 발생함
+- 이러한 물리적 빛 번짐은 반도체 기술만으로 처리하기 어려움
+- AI 기술로 문제를 적극적으로 해결하고자
 
 ## 3. 대회 설명
 
