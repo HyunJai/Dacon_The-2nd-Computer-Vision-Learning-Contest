@@ -36,7 +36,7 @@
 - DataLoader : pin_memory = True, num_workers * GPU 갯수
 - torch.cuda.empty_cache() : validation 진행 전 메모리 초기화
 
-## 본 경진대회에서 제안한 방법
+## 💡 본 경진대회에서 제안한 방법
 1. parameter 학습을 효율적으로 하기위해 Efficient B1과 UNet를 결합한 pretrained 모델 사용함
 2. 모댈의 input 이미지의 크기를 patch 단위로 커팅함
 3. 모델의 input 이미지에 대해 Sigmoid를 적용함
