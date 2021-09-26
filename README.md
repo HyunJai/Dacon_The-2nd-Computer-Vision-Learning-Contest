@@ -1,7 +1,7 @@
 # 카메라 이미지 품질 향상 AI 경진대회
 [LG AI Research 경진대회](https://dacon.io/competitions/official/235746/overview/description)
 
-### Private : 18/235(7%)
+### Private : 18/235(8%)
 
 ## 1. 주제
 - 🌟빛 번짐으로 저하된 📷카메라 이미지 품질을 향상시키는 AI 모델 개발
